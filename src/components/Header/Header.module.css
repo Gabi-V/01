@@ -1,0 +1,39 @@
+.header {
+    background-color: black;
+    border-bottom: 2px solid white;
+position: fixed;
+top: 0;
+width: 100%;
+height: 50px;
+display: flex;
+padding: 0.5rem;
+align-items: center;
+justify-content: space-around;
+
+
+
+}
+
+.header span {
+font-size: 2rem;
+color: antiquewhite;
+font-weight: 500;
+
+}
+
+.header nav {
+margin-right: 3rem;
+
+
+}
+
+
+
+
+.header a {
+text-decoration: none;
+color: aliceblue;
+padding-inline: 2.0rem;
+
+}
+
